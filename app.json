@@ -105,7 +105,7 @@
       },
       "SUPPORT_CHANNEL": {
         "description": "Link of your telegram channel.",
-        "value": "https://t.me/Akhand_Words",
+        "value": "https://t.me/THE_UPDATE_SILENCER",
         "required": false
       }
     },
